@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Application development\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Workshop_4\\Workshop_4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workshop_4\\Workshop_4\\Workshop_4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Workshop_4\\Workshop_4\\Workshop_4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workshop_4\\Workshop_4\\Workshop_4\\Workshop_4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task4\\Task4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workshop_4\\Task4\\Task4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task4\\Task4\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workshop_4\\Task4\\Task4\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task3\\Task3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workshop_4\\Task3\\Task3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task3\\Task3\\ParameterDemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workshop_4\\Task3\\Task3\\ParameterDemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task2\\Task2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workshop_4\\Task2\\Task2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task2\\Task2\\Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workshop_4\\Task2\\Task2\\Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task1\\Task1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workshop_4\\Task1\\Task1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task1\\Task1\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workshop_4\\Task1\\Task1\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Workshop_4\\Workshop_4\\Program.cs",
+              "RelativeDocumentMoniker": "workshop_4\\Workshop_4\\Workshop_4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Workshop_4\\Workshop_4\\Program.cs",
+              "RelativeToolTip": "workshop_4\\Workshop_4\\Workshop_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:48:57.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Workshop_4.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Workshop_4\\Workshop_4\\Workshop_4.csproj",
+              "RelativeDocumentMoniker": "workshop_4\\Workshop_4\\Workshop_4\\Workshop_4.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Workshop_4\\Workshop_4\\Workshop_4.csproj",
+              "RelativeToolTip": "workshop_4\\Workshop_4\\Workshop_4\\Workshop_4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T13:48:55.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task4\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "workshop_4\\Task4\\Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task4\\Task4\\Program.cs",
+              "RelativeToolTip": "workshop_4\\Task4\\Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:48:39.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task4\\Task4\\Player.cs",
+              "RelativeDocumentMoniker": "workshop_4\\Task4\\Task4\\Player.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task4\\Task4\\Player.cs",
+              "RelativeToolTip": "workshop_4\\Task4\\Task4\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:48:35.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task3\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "workshop_4\\Task3\\Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task3\\Task3\\Program.cs",
+              "RelativeToolTip": "workshop_4\\Task3\\Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:48:27.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParameterDemo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task3\\Task3\\ParameterDemo.cs",
+              "RelativeDocumentMoniker": "workshop_4\\Task3\\Task3\\ParameterDemo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task3\\Task3\\ParameterDemo.cs",
+              "RelativeToolTip": "workshop_4\\Task3\\Task3\\ParameterDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:48:20.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task2\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "workshop_4\\Task2\\Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task2\\Task2\\Program.cs",
+              "RelativeToolTip": "workshop_4\\Task2\\Task2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAz8zMzMwXwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:47:39.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task2\\Task2\\Calculator.cs",
+              "RelativeDocumentMoniker": "workshop_4\\Task2\\Task2\\Calculator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task2\\Task2\\Calculator.cs",
+              "RelativeToolTip": "workshop_4\\Task2\\Task2\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:45:35.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task1\\Task1\\Student.cs",
+              "RelativeDocumentMoniker": "workshop_4\\Task1\\Task1\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task1\\Task1\\Student.cs",
+              "RelativeToolTip": "workshop_4\\Task1\\Task1\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:44:19.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "workshop_4\\Task1\\Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task1\\Task1\\Program.cs",
+              "RelativeToolTip": "workshop_4\\Task1\\Task1\\Program.cs",
+              "ViewState": "AgIAAA0AAABAMjMzM/MmwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:41:57.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

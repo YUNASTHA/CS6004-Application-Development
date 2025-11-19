@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B90081-4756-441C-8C24-A5F168E7DB8F}|Task4\\Task4.csproj|c:\\users\\user\\desktop\\application development\\workshop_4\\task4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B90081-4756-441C-8C24-A5F168E7DB8F}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B90081-4756-441C-8C24-A5F168E7DB8F}|Task4\\Task4.csproj|c:\\users\\user\\desktop\\application development\\workshop_4\\task4\\task4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B90081-4756-441C-8C24-A5F168E7DB8F}|Task4\\Task4.csproj|solutionrelative:task4\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task4\\Task4\\Player.cs",
+              "RelativeDocumentMoniker": "Task4\\Player.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task4\\Task4\\Player.cs",
+              "RelativeToolTip": "Task4\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T06:32:46.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task4\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\workshop_4\\Task4\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T06:31:03.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
