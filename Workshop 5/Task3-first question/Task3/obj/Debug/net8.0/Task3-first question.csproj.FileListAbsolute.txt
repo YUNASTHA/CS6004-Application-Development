@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\bin\Debug\net8.0\Task3-first question.exe
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\bin\Debug\net8.0\Task3-first question.deps.json
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\bin\Debug\net8.0\Task3-first question.runtimeconfig.json
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\bin\Debug\net8.0\Task3-first question.dll
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\bin\Debug\net8.0\Task3-first question.pdb
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\obj\Debug\net8.0\Task3-first question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\obj\Debug\net8.0\Task3-first question.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\obj\Debug\net8.0\Task3-first question.AssemblyInfo.cs
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\obj\Debug\net8.0\Task3-first question.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\obj\Debug\net8.0\Task3-first question.sourcelink.json
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\obj\Debug\net8.0\Task3-first question.dll
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\obj\Debug\net8.0\refint\Task3-first question.dll
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\obj\Debug\net8.0\Task3-first question.pdb
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\obj\Debug\net8.0\Task3-first question.genruntimeconfig.cache
+C:\Users\user\Desktop\Application development\Workshop 5\Task3\Task3\obj\Debug\net8.0\ref\Task3-first question.dll
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\bin\Debug\net8.0\Task3-first question.exe
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\bin\Debug\net8.0\Task3-first question.deps.json
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\bin\Debug\net8.0\Task3-first question.runtimeconfig.json
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\bin\Debug\net8.0\Task3-first question.dll
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\bin\Debug\net8.0\Task3-first question.pdb
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\obj\Debug\net8.0\Task3-first question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\obj\Debug\net8.0\Task3-first question.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\obj\Debug\net8.0\Task3-first question.AssemblyInfo.cs
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\obj\Debug\net8.0\Task3-first question.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\obj\Debug\net8.0\Task3-first question.sourcelink.json
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\obj\Debug\net8.0\Task3-first question.dll
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\obj\Debug\net8.0\refint\Task3-first question.dll
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\obj\Debug\net8.0\Task3-first question.pdb
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\obj\Debug\net8.0\Task3-first question.genruntimeconfig.cache
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-first question\Task3\obj\Debug\net8.0\ref\Task3-first question.dll

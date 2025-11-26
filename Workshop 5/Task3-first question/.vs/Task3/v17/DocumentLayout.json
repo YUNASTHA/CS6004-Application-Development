@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task3-first question\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46E279DC-7D78-4893-A888-60C20CD4920B}|Task3\\Task3-first question.csproj|c:\\users\\user\\desktop\\application development\\workshop 5\\task3-first question\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E279DC-7D78-4893-A888-60C20CD4920B}|Task3\\Task3-first question.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E279DC-7D78-4893-A888-60C20CD4920B}|Task3\\Task3-first question.csproj|c:\\users\\user\\desktop\\application development\\workshop 5\\task3-first question\\task3\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E279DC-7D78-4893-A888-60C20CD4920B}|Task3\\Task3-first question.csproj|solutionrelative:task3\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task3-first question\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task3-first question\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:48:40.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task3-first question\\Task3\\Printer.cs",
+              "RelativeDocumentMoniker": "Task3\\Printer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task3-first question\\Task3\\Printer.cs",
+              "RelativeToolTip": "Task3\\Printer.cs",
+              "ViewState": "AgIAAAMAAACAMzMzM3MvwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:49:00.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

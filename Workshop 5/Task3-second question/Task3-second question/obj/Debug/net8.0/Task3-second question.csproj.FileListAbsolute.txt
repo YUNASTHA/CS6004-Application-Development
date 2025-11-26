@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\obj\Debug\net8.0\Task3-second question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\obj\Debug\net8.0\Task3-second question.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\obj\Debug\net8.0\Task3-second question.AssemblyInfo.cs
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\obj\Debug\net8.0\Task3-second question.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\obj\Debug\net8.0\Task3-second question.sourcelink.json
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\bin\Debug\net8.0\Task3-second question.exe
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\bin\Debug\net8.0\Task3-second question.deps.json
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\bin\Debug\net8.0\Task3-second question.runtimeconfig.json
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\bin\Debug\net8.0\Task3-second question.dll
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\bin\Debug\net8.0\Task3-second question.pdb
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\obj\Debug\net8.0\Task3-second question.dll
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\obj\Debug\net8.0\refint\Task3-second question.dll
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\obj\Debug\net8.0\Task3-second question.pdb
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\obj\Debug\net8.0\Task3-second question.genruntimeconfig.cache
+C:\Users\user\Desktop\Application development\Workshop 5\Task3-second question\Task3-second question\obj\Debug\net8.0\ref\Task3-second question.dll

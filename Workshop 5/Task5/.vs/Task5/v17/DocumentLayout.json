@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC632065-4580-48B2-A59B-0AE32A654D1D}|Task5\\Task5.csproj|c:\\users\\user\\desktop\\application development\\workshop 5\\task5\\task5\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC632065-4580-48B2-A59B-0AE32A654D1D}|Task5\\Task5.csproj|solutionrelative:task5\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC632065-4580-48B2-A59B-0AE32A654D1D}|Task5\\Task5.csproj|c:\\users\\user\\desktop\\application development\\workshop 5\\task5\\task5\\electronicsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC632065-4580-48B2-A59B-0AE32A654D1D}|Task5\\Task5.csproj|solutionrelative:task5\\electronicsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC632065-4580-48B2-A59B-0AE32A654D1D}|Task5\\Task5.csproj|c:\\users\\user\\desktop\\application development\\workshop 5\\task5\\task5\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC632065-4580-48B2-A59B-0AE32A654D1D}|Task5\\Task5.csproj|solutionrelative:task5\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC632065-4580-48B2-A59B-0AE32A654D1D}|Task5\\Task5.csproj|c:\\users\\user\\desktop\\application development\\workshop 5\\task5\\task5\\electronicdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC632065-4580-48B2-A59B-0AE32A654D1D}|Task5\\Task5.csproj|solutionrelative:task5\\electronicdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC632065-4580-48B2-A59B-0AE32A654D1D}|Task5\\Task5.csproj|c:\\users\\user\\desktop\\application development\\workshop 5\\task5\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC632065-4580-48B2-A59B-0AE32A654D1D}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartPhone.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task5\\Task5\\SmartPhone.cs",
+              "RelativeDocumentMoniker": "Task5\\SmartPhone.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task5\\Task5\\SmartPhone.cs",
+              "RelativeToolTip": "Task5\\SmartPhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:20:48.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectronicsStore.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task5\\Task5\\ElectronicsStore.cs",
+              "RelativeDocumentMoniker": "Task5\\ElectronicsStore.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task5\\Task5\\ElectronicsStore.cs",
+              "RelativeToolTip": "Task5\\ElectronicsStore.cs",
+              "ViewState": "AgIAACEAAACAMzMzM/MlwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:17:18.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task5\\Task5\\Laptop.cs",
+              "RelativeDocumentMoniker": "Task5\\Laptop.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task5\\Task5\\Laptop.cs",
+              "RelativeToolTip": "Task5\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:16:02.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElectronicDevice.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task5\\Task5\\ElectronicDevice.cs",
+              "RelativeDocumentMoniker": "Task5\\ElectronicDevice.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task5\\Task5\\ElectronicDevice.cs",
+              "RelativeToolTip": "Task5\\ElectronicDevice.cs",
+              "ViewState": "AgIAAA4AAADgZ2ZmZuYjwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:13:15.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task5\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Application development\\Workshop 5\\Task5\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:48:02.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
