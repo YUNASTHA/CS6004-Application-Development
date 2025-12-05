@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task3-first question")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c35d5834778a4fb0a4674b849217498711ee978a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b99ae59fb1a94d75803f525163803cd64ed42c7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task3-first question")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task3-first question")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

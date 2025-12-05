@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Workshop 5",
+    "\\Workshop 5\\Task1",
+    "\\Workshop 5\\Task1\\Task1",
+    "\\Workshop 5\\Task2",
+    "\\Workshop 5\\Task2\\Task2",
     "\\workshop_4",
     "\\workshop_4\\Task5",
     "\\workshop_4\\Task5\\Task5"
   ],
+  "SelectedNode": "\\Workshop 5\\Task1\\Task1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
